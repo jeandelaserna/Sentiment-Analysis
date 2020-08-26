@@ -19,18 +19,19 @@ Enfin pour la récupération de données:
 * Tweepy ( https://www.tweepy.org)
 
 Pour recuperer les donnés que j'ai récupérés et les models que j'ai entraînés:
+
 *
 
-De plus, si vous voulez relancer le code ne pas hésiter à utiliser collab ( https:/colab.research.google.com) certains models sont lourd (40 min déchainement sur colab).
+De plus, si vous voulez relancer le code ne pas hésiter à utiliser collab ( https:/colab.research.google.com) certains models sont lourd (40 min d'entraînement sur colab).
 
 ## les notebooks
 
 Les notebooks sont organisés de la manière suivante: 
 
-* en premier lieu dataset Ipynb qui explique comment nous formons le dataset pour l'apprentissage de nos modèles.  
+* en premier lieu dataset.Ipynb qui explique comment nous formons le dataset pour l'apprentissage de nos modèles.  
 
-* Puis Analyse_de_sentiment.Ipynb où nous faisons une première approche sur l'analyse de sentiment.  
+* Puis Analyse_de_sentiment.ipynb où nous faisons une première approche sur l'analyse de sentiment.  
 
-* reduction.Ipynb nous approfondissons le précédent grace à la réduction de dimension.  
+* reduction.ipynb nous approfondissons le précédent grace à la réduction de dimension.  
 
-* Enfin recuperation_tweet.Ipynb dans lequel nous abordons la récupération des données twitter. 
+* Enfin recuperation_tweet.ipynb dans lequel nous abordons la récupération des données twitter. 
