@@ -6,7 +6,7 @@ Ici, un travail exploratoire de NLP(Natural language processing) sur des tweets,
 
 Pour le NLP nous utilisons principalement des bibliothèques classiques:
 
-* Nlpk ( https://www.nltk.org/ )
+* Nltk ( https://www.nltk.org/ )
 
 * Scikit-learn ( https://scikit-learn.org/stable/)
 
