@@ -2,36 +2,35 @@
 
 ## Contexte
 
-Ici un travail exploratoire de NLP(Natural language processing) sur des tweets, le but ainsi est d'explorer les manière de faire du NLP et d'apprendre à recuperer les données twitter qui nous interresse.
+Ici, un travail exploratoire de NLP(Natural language processing) sur des tweets, le but ainsi est d'explorer les manières de faire du NLP et d'apprendre à récupérer les données twitter qui nous intéresse.
 
-Pour le NLP nous utilisons principalement des bibliothèque classique:
-* nlpk ( https://www.nltk.org/ )
+Pour le NLP nous utilisons principalement des bibliothèques classiques:
 
-* scikit-learn ( https://scikit-learn.org/stable/ )
+* Nlpk ( https://www.nltk.org/ )
 
-* keras ( https://keras.io/api/ )
+* Scikit-learn ( https://scikit-learn.org/stable/)
 
-* tensoFlow ( https://www.tensorflow.org/ )
+* Keras ( https://keras.io/api/)
 
-Enfin pour la recuperation de donnée:
+* TensorFlow ( https://www.tensorflow.org/)
 
-* tweepy ( https://www.tweepy.org )
+Enfin pour la récupération de données:
 
-Pour les donné que j'ai recupéré et les models que j'ai entrainé:
+* Tweepy ( https://www.tweepy.org)
 
+Pour recuperer les donnés que j'ai récupérés et les models que j'ai entraînés:
 *
 
-De plus, si vous voulez relancer le code ne pas hesiter à utiliser colab ( https://colab.research.google.com ) certains models sont lourd (40 min d'netrainement sur colab)
+De plus, si vous voulez relancer le code ne pas hésiter à utiliser collab ( https:/colab.research.google.com) certains models sont lourd (40 min déchainement sur colab).
 
-## Les notebooks
+## les notebooks
 
-Les notebook sont organisé de la manière suivante:
+Les notebooks sont organisés de la manière suivante: 
 
- * En premier lieu dataset.ipynb qui explique comment nous formons le dataset pour l'apprentissage de nos modèles.
- 
- * Puis Analyse_de_sentiment.ipynb où nous faisons une première approche sur l'analyse de sentiment.
- 
- * reduction.ipynb nous approfondissons le précedent grace a la reduction de dimension.
- 
- * Enfin recuperation_tweet.ipynb dans le quel nous abordons la recuperation des donnée twitter.
- 
+* en premier lieu dataset Ipynb qui explique comment nous formons le dataset pour l'apprentissage de nos modèles.  
+
+* Puis Analyse_de_sentiment.Ipynb où nous faisons une première approche sur l'analyse de sentiment.  
+
+* reduction.Ipynb nous approfondissons le précédent grace à la réduction de dimension.  
+
+* Enfin recuperation_tweet.Ipynb dans lequel nous abordons la récupération des données twitter. 
