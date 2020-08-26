@@ -18,9 +18,12 @@ Enfin pour la récupération de données:
 
 * Tweepy ( https://www.tweepy.org)
 
-Pour recuperer les donnés que j'ai récupérés et les models que j'ai entraînés:
+Pour les données que j'ai récupérés et les models que j'ai entraînés:
 
-*
+* adidasdatset.csv(34 Mo) https://drive.google.com/file/d/191R5v3XUJKb6T2QUe2HMlbn4NQj2fSpE/view?usp=sharing
+* onedirdataset.csv(548 Mo) https://drive.google.com/file/d/1pjeG4DZgJBTYdq5Te-l_uGMskrUav4Pw/view?usp=sharing
+* reduc_cencoder.h5(59 Mo) https://drive.google.com/file/d/10CmwbPab8EKCVrwDJkev8-fFjYP0CyGU/view?usp=sharing
+* reduc_part0.h5(91 Mo) https://drive.google.com/file/d/1KSO7wYycWiEkgy-2rfwGWAOIlUFh7xwy/view?usp=sharing
 
 De plus, si vous voulez relancer le code ne pas hésiter à utiliser collab ( https:/colab.research.google.com) certains models sont lourd (40 min d'entraînement sur colab).
 
@@ -28,7 +31,7 @@ De plus, si vous voulez relancer le code ne pas hésiter à utiliser collab ( ht
 
 Les notebooks sont organisés de la manière suivante: 
 
-* en premier lieu dataset.Ipynb qui explique comment nous formons le dataset pour l'apprentissage de nos modèles.  
+* En premier lieu dataset.Ipynb qui explique comment nous formons le dataset pour l'apprentissage de nos modèles.  
 
 * Puis Analyse_de_sentiment.ipynb où nous faisons une première approche sur l'analyse de sentiment.  
 
