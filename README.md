@@ -17,7 +17,7 @@ Les applications de ces sujets sont multiples:
   * 86 millions dutilisateurs quotidiens  
   * 6000 tweets /seconde  
   * Sujet varié, art, politique, humour, tranche de vie, ...  
-  * recherche facile sur un sujet grace au hashtags  
+  * recherche facile sur un sujet grace aux hashtags  
   * texte lié à un auteur et lui lié à d'autre auteurs et d'autre textes, cela contextualise la donnée.
 
 ## Contexte, données et outils
@@ -46,7 +46,7 @@ Et les models que j'ai entraînés:
 * reduc_part0.h5(91 Mo) https://drive.google.com/file/d/1KSO7wYycWiEkgy-2rfwGWAOIlUFh7xwy/view?usp=sharing
 * qui vont de paire avec les deux fichiers texte du github, ce sont les liste des mots utilisé par ces models.
 
-De plus, si vous voulez relancer le code ne pas hésiter à utiliser collab ( https:/colab.research.google.com) certains models sont lourds (40 min d'entraînement sur colab).
+De plus, si vous voulez relancer le code ne pas hésiter à utiliser collab ( https:/colab.research.google.com) mais certains models sont lourds (40 min d'entraînement sur colab).
 
 ## le contenu du github
 
@@ -65,5 +65,5 @@ Ainsi les notebooks abordent chacun un sous-sujet et sont organisés de la mani�
 
 Bien sûr il y a encore d'autres manière de faire de l'analyse de sentiment, utiliser des n-gramme au lieu d'unigramme, réduire la dimension grace à des CBOW ou bien des skips Gram et aussi je n'ai pas été exhaustif dans l'ensemble des classifieurs possibles. Le NLP ne concerne pas que le sujet de l'analyse de sentiment, néanmoins le formatage des données, la réduction de dimension abordée ici et les type classifieur utilisé est assez classique et couramment utilisé.
 
-Enfin en ce qui concerne l'extraction de données twitter, tweepy n'est pas le seul wrapper et ce qu'il y a est une utilisation classique. Comme dit au début de ce redame, on peut récupérer beaucoup de contexte, et ainsi le NLP n'est pas la seule utilisation. Par exemple en récupérant la liste des followers, nous pouvons reformer le réseau autour d'un utilisateur ou d'une communauté, en déduire qui sont les ponts entre chaque communauté, si certains groupes sont isolés, ...
+Enfin en ce qui concerne l'extraction de données twitter, tweepy n'est pas le seul wrapper et ce qu'il y a est une utilisation classique. Comme dit au début de ce readme, on peut récupérer beaucoup de contexte, et ainsi le NLP n'est pas la seule utilisation. Par exemple en récupérant la liste des followers, nous pouvons reformer le réseau autour d'un utilisateur ou d'une communauté, en déduire qui sont les ponts entre chaque communauté, si certains groupes sont isolés, predire les inclinaison  du groupe et ou de la personne pour lui sugerer des contenus en adequation, ...
 
