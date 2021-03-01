@@ -1,6 +1,6 @@
 # Sentiment Analysis
 
-## Intérêt 
+## Intérêts 
 
 Ici, un travail exploratoire de NLP(Natural language processing) sur des tweets. Ainsi le but est d'explorer les manières de faire du NLP et d'apprendre à récupérer les données twitter qui nous intéresse.
 Les applications de ces sujets sont multiples:
@@ -35,7 +35,7 @@ Enfin pour la récupération de données:
 
 * Tweepy ( https://www.tweepy.org)
 
-Pour l'entrainement des diferent modele, les données que j'utilise sont un dataset inclu dans NLTK. Scikit-learn est principalement utilisé pour les classifieur. ET Keras et Tensor-Flow pour les reduction de dimension.
+Pour l'entrainement des diferent modele, les données que j'utilise sont un dataset inclu dans NLTK. Scikit-learn est principalement utilisé pour les classifieur et Keras et Tensor-Flow pour les reduction de dimension.
 
 Pour les données que j'ai récupérées grace à tweepy :
 * adidasdatset.csv(34 Mo) https://drive.google.com/file/d/191R5v3XUJKb6T2QUe2HMlbn4NQj2fSpE/view?usp=sharing
