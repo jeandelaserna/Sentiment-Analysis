@@ -2,7 +2,7 @@
 
 ## Intérêts 
 
-Ici, un travail exploratoire de NLP(Natural language processing) sur des tweets. Ainsi le but est d'explorer les manières de faire du NLP et d'apprendre à récupérer les données twitter qui nous intéresse.
+Ici, un travail exploratoire de NLP(Natural language processing) sur des tweets. Ainsi le but est d'explorer les manières de faire du NLP et d'apprendre à récupérer les données twitter qui nous intéressent.
 Les applications de ces sujets sont multiples:
 * pour le  NLP:  
   * en publicité, en ciblant des personnes que l'on aurait détectées comme possiblement intéressé
